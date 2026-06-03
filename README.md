@@ -1,2 +1,2 @@
 This GitHub repository just work as a collection of the code we've used for our group project "Final Project" for the course Applied Machine Learning at University of Copenhagen.
-For this course Python has been the primary coding language, but since this is still quite new for us, som of the cose is written in R, since we're far more experienced in this, as this is the primary language used in the actuarial studies courses.
+For this course Python has been the primary coding language, but since this is still quite new for us, some of the code is written in R, since we're far more experienced in this, as this is the primary language used in the actuarial studies courses.
